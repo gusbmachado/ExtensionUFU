@@ -1,0 +1,20 @@
+{
+  "changePicture": "Change picture",
+  "maxPictureSize": "Max file size 1MB",
+  "uploadPicture": "Upload",
+  "name": "Name",
+  "email": "Email",
+  "language": "Language",
+  "organization": "Organization",
+  "currentPassword": "Current password",
+  "newPassword": "New password",
+  "confirmPassword": "Confirm new password",
+  "errorEmptyField": "Required field",
+  "errorPasswordTooShort": "Must be at least {{count}} characters",
+  "errorConfirmPassword": "Passwords don't match",
+  "userInfoSaved": "Info saved",
+  "passwordSaved": "Password saved",
+  "pt": "Portuguese",
+  "en": "English",
+  "flag":  "🇺🇸"
+}

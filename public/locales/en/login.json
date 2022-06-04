@@ -1,0 +1,15 @@
+{
+  "access": "Sign In to Your Account",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "rememberMe": "Remember me",
+  "accessButton": "Login",
+  "support": "support",
+  "forgotPassword": "Forgot your password?",
+  "noAccount": "Don't have an account?",
+  "signUp": "Sign up",
+  "invalidEmailPassword": "Invalid email or password.",
+  "expiredCredentials": "Your credentials expired. Please login again.",
+  "opption": "Or enter your data"
+}

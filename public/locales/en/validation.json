@@ -1,0 +1,11 @@
+{
+  "invalidField": "Field is not valid.",
+  "requiredField": "Field is required.",
+  "invalidEmail": "Email is not valid.",
+  "fieldLength_one": "Must have exactly {{count}} character.",
+  "fieldLength_other": "Must have exactly {{count}} characters.",
+  "fieldTooShort_one": "Must be longer than {{count}} character.",
+  "fieldTooShort_other": "Must be longer than {{count}} characters.",
+  "fieldTooLong_one": "Must be shorter than {{count}} character.",
+  "fieldTooLong_other": "Must be shorter than {{count}} characters."
+}

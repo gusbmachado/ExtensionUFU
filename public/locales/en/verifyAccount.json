@@ -1,0 +1,9 @@
+{
+  "verify": "Verify account",
+  "verifyText": "Insert the verification code sent to your email.",
+  "resendVerification": "Resend code",
+  "verificationResent": "Code resent",
+  "verifyButton": "verify",
+  "verificationCode": "verification code",
+  "invalidVerificationCode": "Verification code is not valid.",
+}

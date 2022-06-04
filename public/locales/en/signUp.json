@@ -1,0 +1,14 @@
+{
+    "signUp": "Create Account",
+    "signUpButton": "sign up",
+    "subtitle": "Control all your Viacast solutions",
+    "email": "email",
+    "password": "password",
+    "repeatPassword": "repeat password",
+    "name": "full name",
+    "organization": "organization",
+    "hasAccount": "Already has an account?",
+    "access": "Login",
+    "emailAlreadyRegistered": "This email is already registered.",
+    "wrongRepeatPassword": "Passwords don't match."
+  }

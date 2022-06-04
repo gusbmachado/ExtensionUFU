@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "1",
+    "name": "tester2 Paulo",
+    "email": "tester2.p@viacast.tv",
+    "role": "0",
+    "password": "12345678"
+  },
+  {
+    "userId": "2",
+    "name": "tester1",
+    "email": "tester1@viacast.tv",
+    "role": "1",
+    "password": "12345678"
+  },
+  {
+    "userId": "3",
+    "name": "tester3",
+    "email": "tester3@viacast.tv",
+    "role": "2",
+    "password": "12345678"
+  }
+]
